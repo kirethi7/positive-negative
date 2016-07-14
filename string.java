@@ -1,5 +1,6 @@
 import java.io.*;
 import java.util.Scanner.*;
+import java.util.*;
 class string
 {
 public static void main(String args[])

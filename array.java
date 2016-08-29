@@ -16,12 +16,12 @@ public class Join
            {
                if(a[i]==a[j])
                {
-                   a[i]=1;
-                   a[j]=1;
+                   a[i]=0;
+                   a[j]=0;
                    
                }
            }
-           if(a[i]!=1)
+           if(a[i]!=0)
            {
                System.out.print(a[i]);
            }

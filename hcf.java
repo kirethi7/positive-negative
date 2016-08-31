@@ -1,17 +1,17 @@
 import java.util.Scanner;
-public class hcf {
+public class main {
 public static void main(String args[])
 {
 	Scanner sc=new Scanner(System.in);
-	int n1=sc.nextInt();
-	int n2=sc.nextInt();
+	int a=sc.nextInt();
+	int b=sc.nextInt();
 	int i;
-	int gcd=0;
-	for(i=1;i<=n1 && i<=n2;i++)
+	int hcf=0;
+	for(i=1;i<=a && i<=b;i++)
 	{
-		if((n1%i==0) && (n2%i==0))
-			gcd=i;
+		if((a%i==0) && (b%i==0))
+			hcf=i;
 	}
-	System.out.println(gcd);
+	System.out.println(hcf);
 }
 }

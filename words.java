@@ -7,6 +7,6 @@ public class cat1
     Scanner sc=new Scanner(System.in);
     str=nextLine();
     String str1[]=str.split(" ");
-    System.out.println(str1.length+"is word");
+    System.out.println(str1.length);
   }
 }

@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: CommentsRetrive
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: admin
+Implementation-Vendor-Id: com.facebookComments
+Build-Jdk: 1.8.0_74
+Implementation-URL: https://spring.io/projects/spring-boot/CommentsRet
+ rive
+Created-By: Maven Integration for Eclipse
+
